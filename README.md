@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/pawanpandey407%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Pawan%20Pandey%20Banner.png">
 
 <h2> Hey there! I'm Pawan.</h2>
 
