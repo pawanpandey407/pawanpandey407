@@ -5,11 +5,11 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👋 Hi, I’m Pawan Pandey and I am graduating in May 8, 2021.
-- 🎓 &nbsp; Studying Computer Science at East Central University .
+- 🎓 Studying Computer Science at East Central University .
 - 👀 Interested in Software development, Software engineering, DevOps, and Data analysis.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ Currently researching in the Classification / Analysis of COVID-19 using Machine Learning with my fellow colleagues and professor. 
-- 🤔 &nbsp; Exploring new technologies and improving the knowledge on Data Structure and Algorithm.
+- 🤔 Exploring new technologies and improving the knowledge on Data Structure and Algorithm.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
