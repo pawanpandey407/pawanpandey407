@@ -54,9 +54,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://www.pandeypawan.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.pandeypawan.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/pawan-pandey-8402261a8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pawan%20Pandey%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="pawanpandey407@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pawanpandey407@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="http://www.pandeypawan.com/"><img alt="portfolio-website" src="https://img.shields.io/badge/Website-www.pandeypawan.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/pawan-pandey-8402261a8/"><img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-Pawan%20Pandey%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:pawanpandey407@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-pawanpandey407@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
