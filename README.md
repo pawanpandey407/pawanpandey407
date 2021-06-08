@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👋 Hi, I’m Pawan Pandey and I am graduating in May 8, 2021.
+- 👋 Hi, I’m Pawan Pandey and I graduated in May 8, 2021.
 - 🎓 Studying Computer Science at East Central University .
 - 👀 Interested in Software development, Software engineering, DevOps, and Data analysis.
 - 🌱 Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
