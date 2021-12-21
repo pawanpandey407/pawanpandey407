@@ -6,7 +6,6 @@
 - 🎓 Graduated in Computer Science from East Central University .
 - 👀 Interested in Software development, Software engineering, DevOps.
 - 🌱 Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ Currently researching in the Classification / Analysis of COVID-19 using Machine Learning with my fellow colleagues and professor. 
 - 🤔 Exploring new technologies and improving the knowledge on Data Structure and Algorithm.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
